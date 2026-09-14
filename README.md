@@ -33,32 +33,17 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inBBong&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inBBong&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="60%"/>
-</p>
-
-> ⚠️ `YOUR_GITHUB_USERNAME`을 본인 깃허브 아이디로 바꿔주세요. 테마는 `theme=radical` 대신 `dark`, `merko`, `gruvbox` 등으로 바꿀 수 있습니다.
-
----
 
 ### 🚀 Featured Projects
 
-#### 🔹 [ZenithOfChallenge](프로젝트-깃허브-링크)
+#### 🔹 [ZenithOfChallenge](https://github.com/sungha1203/Zenith_of_Challenger)
 [한국공학대학교 게임공학과 졸업 작품 : 3D RPG 협동 게임 제작]
 `C++` `DirectX12` `Blender` `Unity`
-
-#### 🔹 [K-Navi](프로젝트-깃허브-링크)
+#### 🔹 [K-Navi](https://github.com/SAX-AI-TeamProject1)
 [수신호 인식 로봇 시뮬레이션 구축]
 `Python` `OpenCV` `Ros2`
 
-#### 🔹 [오늘 뭐 멍냥](프로젝트-깃허브-링크)
+#### 🔹 [오늘 뭐 멍냥](https://github.com/TodayWhatDish)
 [사용자 리뷰 기반 사료 추천 서비스]
 `RAG` `LLM` `LangChanin` `Docker`
 
