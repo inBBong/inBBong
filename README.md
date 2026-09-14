@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [이름을 입력하세요]</h1>
+<h1 align="center">Hi 👋, I'm [inBBong]</h1>
 <h3 align="center">데이터로 문제를 해결하는 AI/ML 엔지니어입니다</h3>
 
 ---
@@ -31,15 +31,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-> 💡 **Tip:** 실제 사용하는 기술만 남기고, 안 쓰는 뱃지는 지워주세요. 뱃지 종류는 [shields.io](https://shields.io)에서 더 찾을 수 있어요.
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=inBBong&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inBBong&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
@@ -52,17 +50,17 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [프로젝트 이름 1](프로젝트-깃허브-링크)
-[한 줄 설명, 예: 사용자 리뷰 데이터를 활용한 감성 분석 및 추천 시스템 구축]
-`Python` `PyTorch` `FastAPI`
+#### 🔹 [ZenithOfChallenge](프로젝트-깃허브-링크)
+[한국공학대학교 게임공학과 졸업 작품 : 3D RPG 협동 게임 제작]
+`C++` `DirectX12` `Blender` `Unity`
 
-#### 🔹 [프로젝트 이름 2](프로젝트-깃허브-링크)
-[한 줄 설명, 예: 시계열 데이터를 활용한 수요 예측 모델 개발]
-`Python` `Prophet` `Streamlit`
+#### 🔹 [K-Navi](프로젝트-깃허브-링크)
+[수신호 인식 로봇 시뮬레이션 구축]
+`Python` `OpenCV` `Ros2`
 
-#### 🔹 [프로젝트 이름 3](프로젝트-깃허브-링크)
-[한 줄 설명]
-`기술스택`
+#### 🔹 [오늘 뭐 멍냥](프로젝트-깃허브-링크)
+[사용자 리뷰 기반 사료 추천 서비스]
+`RAG` `LLM` `LangChanin` `Docker`
 
 ---
 
